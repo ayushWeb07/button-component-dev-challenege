@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+  background-color: white;
+}
+
+.app {
+  padding: 5%;
+  background-color: white;
+}
+
+.app>h1 {
+  color: #4F4F4F;
+  font-size: 25px;
+  font-weight: 600;
+  margin-bottom: 5%;
+}
+
+.buttons_section1 {
+  margin-bottom: 4%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 60%;
+}
+
+.buttonHeading {
+  color: #4F4F4F;
+  font-size: 14px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+
+.buttons_section2 {
+  margin-bottom: 4%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+}
+
+
+.buttons_section3 {
+  margin-bottom: 4%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
